@@ -45,6 +45,7 @@ header {
     color: #0088a9;
 }
 
+/* BUTTON */
 button {
     margin-left: 20px;
     padding: 9px 25px;
@@ -57,4 +58,5 @@ button {
 
 button:hover {
     background-color: rgba(0,136,169,0.8);
+    transform: scale(1.15);
 }
